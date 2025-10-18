@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnieHouston
 - 👀 I’m interested in Java, JavaEE, PrimeFaces, Macophile, Star Trek.
-- 🌱 I’m currently learning stuff.
+- 🌱 I’m currently enjoying modernizing old applications, remediating bad ones, enhancing others.
 - 💞️ I’m looking to collaborate on (see above).
 
 <!---
